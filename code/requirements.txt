@@ -1,0 +1,16 @@
+# Core
+anthropic>=0.28.0
+pydantic>=2.0.0
+
+# Embeddings (local, no API cost)
+fastembed>=0.3.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Retry / resilience
+tenacity>=8.2.0
+
+# Env loading
+python-dotenv>=1.0.0
