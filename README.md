@@ -4,6 +4,8 @@ Starter repository for the **HackerRank Orchestrate** 24-hour hackathon (May 1â€
 
 Build a terminal-based AI agent that triages real support tickets across three product ecosystems; **HackerRank**, **Claude**, and **Visa** â€” using only the support corpus shipped in this repo.
 
+> **What I built:** See [MY_BUILD.md](MY_BUILD.md) for architecture, design decisions, and tradeoffs.
+
 Read [`problem_statement.md`](./problem_statement.md) for the full task spec, input/output schema, and allowed values, and [`evalutation_criteria.md`](./evalutation_criteria.md) for how submissions are scored.
 
 ---
